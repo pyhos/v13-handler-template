@@ -1,2 +1,5 @@
-# v13-handler-template
-Just a handler template for discord.js v13. Used discord.js guide to make this.
+# v13 handler template gibi bisi
+
+config.jsondaki token, guildid ve clientidyi değiştirin.
+embed-config.jsdeki color, avatar ve footerı değiştirin.
+herşey hazır.
